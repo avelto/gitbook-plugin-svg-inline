@@ -1,0 +1,7 @@
+node_modules/
+dist/
+tmp/
+yarn-error.log
+.cache/
+dev.env
+_book

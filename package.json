@@ -1,0 +1,15 @@
+{
+  "name": "gitbook-plugin-svg-inline",
+  "version": "1.0.0",
+  "description": "First class citizen SVG for GitBook",
+  "main": "index.js",
+  "repository": "git+https://github.com/avelto/gitbook-plugin-svg-inline.git",
+  "author": "Jean-Philippe Avelange <jean-philippe.avelange@expereo.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-eslint": "^8.2.3",
+    "eslint": "^4.19.1",
+    "prettier": "^1.13.4",
+    "prettier-eslint": "^8.8.1"
+  }
+}
